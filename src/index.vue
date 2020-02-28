@@ -33,6 +33,9 @@
       },
       list: {
         type: Array,
+        editor: {
+          ignore: true
+        },
         default () {
           return [
             '码良是一个在线生成h5页面并提供页面管理和页面编辑的平台，用于快速制作H5页面',

@@ -1,8 +1,7 @@
 {
   "name": "rule",
-  "namespace": "Luffy",
-  "label": "",
-  "version": "1.0.0",
+  "label": "规则",
+  "version": "1.0.1",
   "description": "规则",
   "private": true,
   "keywords": [],
