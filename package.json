@@ -1,7 +1,7 @@
 {
   "name": "rule",
   "label": "规则",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "规则",
   "private": true,
   "keywords": [],
@@ -12,7 +12,8 @@
     "dist": "npm run build"
   },
   "style": {
-    "width": "300px"
+    "width": "100%",
+    "height": "auto"
   },
   "dependencies": {
     "element-ui": "2.4.6",

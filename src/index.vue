@@ -101,6 +101,7 @@
 </script>
 <style lang="stylus" rel="stylesheet/stylus" type="text/stylus" scoped>
   .component {
+    width 100%
     .rule-wrap{
       position relative
       margin-bottom 10px
